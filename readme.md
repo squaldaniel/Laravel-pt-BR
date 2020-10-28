@@ -1,4 +1,4 @@
-# Laravel Documentation
+# documentação do Laravel
 
 You can find the online version of the Laravel documentation at [https://laravel.com/docs](https://laravel.com/docs)
 
