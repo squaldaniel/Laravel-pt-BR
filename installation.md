@@ -12,11 +12,11 @@
 ## Installation
 
 <a name="server-requirements"></a>
-### Server Requirements
+### Requerimentos de Servidor
 
-The Laravel framework has a few system requirements. All of these requirements are satisfied by the [Laravel Homestead](/docs/{{version}}/homestead) virtual machine, so it's highly recommended that you use Homestead as your local Laravel development environment.
+O framework Laravel tem alguns requisitos de sistema. Todos esses requisitos são atendidos pela máquina virtual Laravel Homestead, então é altamente recomendável que você use Homestead como seu ambiente de desenvolvimento Laravel local.
 
-However, if you are not using Homestead, you will need to make sure your server meets the following requirements:
+No entanto, se você não estiver usando Homestead, você precisará certificar-se de que seu servidor atenda aos seguintes requisitos:
 
 <div class="content-list" markdown="1">
 - PHP >= 7.3
@@ -32,14 +32,14 @@ However, if you are not using Homestead, you will need to make sure your server 
 </div>
 
 <a name="installing-laravel"></a>
-### Installing Laravel
+### Instalando laravel
 
-Laravel utilizes [Composer](https://getcomposer.org) to manage its dependencies. So, before using Laravel, make sure you have Composer installed on your machine.
+Laravel utiliza [Composer](https://getcomposer.org) para gerenciar suas dependências. Portanto, antes de usar o Laravel, certifique-se de ter o Composer instalado em sua máquina.
 
 <a name="via-laravel-installer"></a>
 #### Via Laravel Installer
 
-First, download the Laravel installer using Composer:
+Primeiro, baixe o instalador do Laravel usando o Composer:
 
     composer global require laravel/installer
 
